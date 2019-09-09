@@ -1,6 +1,6 @@
 # AutoPilot
 
-![auto Pilot Serial Demo](https://github.com/krishnac7/autoPilot/blob/master/autoPilotWithSerialOP/autonomousSerial1.gif)
+![auto Pilot Serial Demo](https://github.com/krishnac7/autoPilot/blob/master/autoPilotWithSerialOP/autonomousSerial2.gif)
 
 
 you can run a pretrained model by running AutopilotApp.py
